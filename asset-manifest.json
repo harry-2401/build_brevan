@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/build_brevan/static/css/main.c3e3d53a.chunk.css",
+    "main.js": "/build_brevan/static/js/main.092c07be.chunk.js",
+    "main.js.map": "/build_brevan/static/js/main.092c07be.chunk.js.map",
+    "runtime-main.js": "/build_brevan/static/js/runtime-main.472522aa.js",
+    "runtime-main.js.map": "/build_brevan/static/js/runtime-main.472522aa.js.map",
+    "static/js/2.104388ca.chunk.js": "/build_brevan/static/js/2.104388ca.chunk.js",
+    "static/js/2.104388ca.chunk.js.map": "/build_brevan/static/js/2.104388ca.chunk.js.map",
+    "index.html": "/build_brevan/index.html",
+    "static/css/main.c3e3d53a.chunk.css.map": "/build_brevan/static/css/main.c3e3d53a.chunk.css.map",
+    "static/js/2.104388ca.chunk.js.LICENSE.txt": "/build_brevan/static/js/2.104388ca.chunk.js.LICENSE.txt",
+    "static/media/careers1.f730df67.jpg": "/build_brevan/static/media/careers1.f730df67.jpg",
+    "static/media/careers2.2841679f.jpg": "/build_brevan/static/media/careers2.2841679f.jpg",
+    "static/media/contactBackground.09d00427.jpg": "/build_brevan/static/media/contactBackground.09d00427.jpg",
+    "static/media/culture2.12858ff3.jpg": "/build_brevan/static/media/culture2.12858ff3.jpg",
+    "static/media/firstManagement.b0968d64.jpg": "/build_brevan/static/media/firstManagement.b0968d64.jpg",
+    "static/media/firstStructuring.609f66b2.jpg": "/build_brevan/static/media/firstStructuring.609f66b2.jpg",
+    "static/media/hero.b5cbb98b.jpg": "/build_brevan/static/media/hero.b5cbb98b.jpg",
+    "static/media/introduction.48b28c15.jpg": "/build_brevan/static/media/introduction.48b28c15.jpg",
+    "static/media/investmentImg.31894ff3.jpg": "/build_brevan/static/media/investmentImg.31894ff3.jpg",
+    "static/media/nextculture.fcfd93f6.jpg": "/build_brevan/static/media/nextculture.fcfd93f6.jpg",
+    "static/media/opproach.e34f4571.jpg": "/build_brevan/static/media/opproach.e34f4571.jpg",
+    "static/media/quote1.f545ded4.jpg": "/build_brevan/static/media/quote1.f545ded4.jpg",
+    "static/media/quote2.a0edd3c6.jpg": "/build_brevan/static/media/quote2.a0edd3c6.jpg",
+    "static/media/remarkBackground.5f8c59b5.jpg": "/build_brevan/static/media/remarkBackground.5f8c59b5.jpg",
+    "static/media/secondManagement.84b80ca0.jpg": "/build_brevan/static/media/secondManagement.84b80ca0.jpg",
+    "static/media/secondStructuring.08ec552f.jpg": "/build_brevan/static/media/secondStructuring.08ec552f.jpg",
+    "static/media/think.958880eb.jpg": "/build_brevan/static/media/think.958880eb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.472522aa.js",
+    "static/js/2.104388ca.chunk.js",
+    "static/css/main.c3e3d53a.chunk.css",
+    "static/js/main.092c07be.chunk.js"
+  ]
+}
